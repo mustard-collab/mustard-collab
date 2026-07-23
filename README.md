@@ -18,15 +18,13 @@ I am pursuing a BS in Cyber Security and Networks at Sir Syed University of Engi
 * 🛡️ **Studying cybersecurity protocols** and network engineering principles.
 * 💻 **Developing systems and applications** in C, JavaScript, and modern frameworks.
 * 🌐 **Deploying live applications** seamlessly via GitHub Pages.
-* 🤖 **Exploring AI-empowered development** workflows and full-stack integration.
-* 📚 **Expanding knowledge** in secure software development and network systems.
 
 ---
 
-## 📊 Most Used Languages
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustard-collab&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mustard-collab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 ## 📈 Contribution Graph
@@ -49,7 +47,7 @@ I am pursuing a BS in Cyber Security and Networks at Sir Syed University of Engi
 
 <p align="center">
   <a href="https://github.com/mustard-collab" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/muhammad-mustafa-khan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:m.mustafakhan1121@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://mustard-collab.github.io/3D-Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
