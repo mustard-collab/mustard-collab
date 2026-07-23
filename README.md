@@ -2,22 +2,20 @@
 
 # Hi there, I'm Muhammad Mustafa Khan 👋
 
-### A passionate AI-Empowered Full-Stack Developer & Cybersecurity Student from Pakistan 🇵🇰
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&width=550&lines=AI-Empowered+Full-Stack+Developer;Cybersecurity+Student+at+SSUET;Building+Interactive+3D+Web+Apps;Systems+Programming+Specialist)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-I am a software developer and cybersecurity student at Sir Syed University of Engineering & Technology (SSUET) with hands-on experience in building modern, user-focused web applications, 3D interactive interfaces, and robust systems. 
-
-My work focuses on writing clean, maintainable code and building secure, performance-oriented architectures.
+I am a software developer and cybersecurity student at Sir Syed University of Engineering & Technology (SSUET) with a passion for building modern web applications, immersive 3D interfaces, and secure architectures.
 
 ## What I’m Currently Working On
 
-* 🚀 **Building immersive 3D web portfolios** using React, Three.js, and Vite.
-* 🛡️ **Studying cybersecurity protocols** and network engineering principles at SSUET.
-* 💻 **Developing systems and applications** in C, JavaScript, and modern frameworks.
-* 🌐 **Deploying production-ready projects** live via GitHub Pages.
+* 🚀 **Building 3D Web Portfolios** using React, Three.js, and Vite.
+* 🛡️ **Studying Cybersecurity Protocols** and network engineering principles.
+* 💻 **Developing Systems & Apps** in C, JavaScript, and modern frameworks.
+* 🌐 **Deploying live applications** seamlessly via GitHub Pages.
 
 ---
 
