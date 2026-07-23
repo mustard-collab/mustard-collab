@@ -12,12 +12,11 @@ Junior software developer and cybersecurity student with hands-on experience in 
 
 I am pursuing a BS in Cyber Security and Networks at Sir Syed University of Engineering & Technology (SSUET). My work focuses on writing clean, maintainable code and building secure, performance-oriented applications.
 
-## What I’m Currently Working On
+## 🚀 Featured Projects
 
-* 🚀 **Building immersive 3D web portfolios** using React, Three.js, and Vite.
-* 🛡️ **Studying cybersecurity protocols** and network engineering principles.
-* 💻 **Developing systems and applications** in C, JavaScript, and modern frameworks.
-* 🌐 **Deploying live applications** seamlessly via GitHub Pages.
+* **[3D Interactive Portfolio](https://mustard-collab.github.io/3D-Portfolio/)** - Sci-fi spaceship bridge immersive 3D portfolio built with React, Three.js, and Vite.
+* **[ContextIQ](https://replit.com/)** - Custom Chrome extension and backend platform built for the Devpost Google Gemini Hackathon.
+* **[C Management Systems](https://github.com/mustard-collab/c-management-systems)** - High-efficiency console-based Bank and Airline Management Systems engineered in C.
 
 ---
 
