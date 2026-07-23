@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Muhammad Mustafa Khan 👋
+# Hi there, I's Muhammad Mustafa Khan 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&width=580&lines=AI-Empowered+Full-Stack+Developer;Cybersecurity+Student+at+SSUET;Building+Interactive+3D+Web+Apps;Systems+Programming+Specialist)](https://git.io/typing-svg)
 
@@ -15,7 +15,7 @@ I am pursuing a BS in Cyber Security and Networks at Sir Syed University of Engi
 ## 🚀 Featured Projects
 
 * **[3D Interactive Portfolio](https://mustard-collab.github.io/3D-Portfolio/)** - Sci-fi spaceship bridge immersive 3D portfolio built with React, Three.js, and Vite.
-* **[ContextIQ](https://replit.com/)** - Custom Chrome extension and backend platform built for the Devpost Google Gemini Hackathon.
+* **[ContextIQ](https://github.com/mustard-collab/ContextIQ)** - Custom Chrome extension and backend platform built for the Devpost Google Gemini Hackathon.
 * **[C Management Systems](https://github.com/mustard-collab/c-management-systems)** - High-efficiency console-based Bank and Airline Management Systems engineered in C.
 
 ---
