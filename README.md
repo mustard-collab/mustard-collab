@@ -2,13 +2,13 @@
 
 # Hi there, I's Muhammad Mustafa Khan 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&width=580&lines=AI-Empowered+Full-Stack+Developer;ComputerNetwork$Security+Student+at+SSUET;Building+Interactive+3D+Web+Apps;Systems+Programming+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&width=580&lines=AI-Empowered+Full-Stack+Developer;ComputerNetwork&Security+Student+at+SSUET;Building+Interactive+3D+Web+Apps;Systems+Programming+Specialist)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-Junior software developer and cybersecurity student with hands-on experience in building modern, user-focused web applications and interactive 3D architectures. I have been actively working with frontend and full-stack technologies, delivering real-world projects and personal systems.
+Junior software developer and Network&Security student with hands-on experience in building modern, user-focused web applications and interactive 3D architectures. I have been actively working with frontend and full-stack technologies, delivering real-world projects and personal systems.
 
 I am pursuing a BS in Cyber Security and Networks at Sir Syed University of Engineering & Technology (SSUET). My work focuses on writing clean, maintainable code and building secure, performance-oriented applications.
 
